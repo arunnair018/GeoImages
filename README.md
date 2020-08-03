@@ -13,3 +13,6 @@ A webapp to show pictures based on geolocation
     REACT_APP_FLICKRAPIKEY=<YOUR API KEY FOR FLICKR>
     ```
   - run `npm start` to start the development server.
+
+## Live Demo
+check it out [Live!](https://lbb018.herokuapp.com/)
