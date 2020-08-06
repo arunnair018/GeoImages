@@ -1,4 +1,4 @@
-# LBB Assignment
+# GeoImages
 
 A webapp to show pictures based on geolocation. drop a pin on google map and it will show public images from that geo location.
 
