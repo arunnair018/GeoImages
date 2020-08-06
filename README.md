@@ -1,6 +1,6 @@
 # LBB Assignment
 
-A webapp to show pictures based on geolocation
+A webapp to show pictures based on geolocation. drop a pin on google map and it will show public images from that geo location.
 
 ## Installation
 
@@ -16,3 +16,6 @@ A webapp to show pictures based on geolocation
 
 ## Live Demo
 check it out [Live!](https://lbb018.herokuapp.com/)
+
+## Tech used 
+Google maps api, Flickr image search api, ReactJS.
